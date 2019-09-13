@@ -1,6 +1,5 @@
 C:\Users\admin\Source\Repos\TddCalcApp\TddCalcApp.library\bin\Debug\TddCalcApp.library.dll
 C:\Users\admin\Source\Repos\TddCalcApp\TddCalcApp.library\bin\Debug\TddCalcApp.library.pdb
-C:\Users\admin\Source\Repos\TddCalcApp\TddCalcApp.library\obj\Debug\TddCalcApp.library.csprojAssemblyReference.cache
 C:\Users\admin\Source\Repos\TddCalcApp\TddCalcApp.library\obj\Debug\TddCalcApp.library.csproj.CoreCompileInputs.cache
 C:\Users\admin\Source\Repos\TddCalcApp\TddCalcApp.library\obj\Debug\TddCalcApp.library.dll
 C:\Users\admin\Source\Repos\TddCalcApp\TddCalcApp.library\obj\Debug\TddCalcApp.library.pdb
