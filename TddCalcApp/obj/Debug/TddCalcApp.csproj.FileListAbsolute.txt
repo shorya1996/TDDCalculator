@@ -1,0 +1,7 @@
+C:\Users\admin\Source\Repos\TddCalcApp\TddCalcApp\bin\Debug\TddCalcApp.exe.config
+C:\Users\admin\Source\Repos\TddCalcApp\TddCalcApp\bin\Debug\TddCalcApp.exe
+C:\Users\admin\Source\Repos\TddCalcApp\TddCalcApp\bin\Debug\TddCalcApp.pdb
+C:\Users\admin\Source\Repos\TddCalcApp\TddCalcApp\obj\Debug\TddCalcApp.csprojAssemblyReference.cache
+C:\Users\admin\Source\Repos\TddCalcApp\TddCalcApp\obj\Debug\TddCalcApp.csproj.CoreCompileInputs.cache
+C:\Users\admin\Source\Repos\TddCalcApp\TddCalcApp\obj\Debug\TddCalcApp.exe
+C:\Users\admin\Source\Repos\TddCalcApp\TddCalcApp\obj\Debug\TddCalcApp.pdb

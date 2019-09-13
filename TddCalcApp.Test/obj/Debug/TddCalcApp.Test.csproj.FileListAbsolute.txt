@@ -1,0 +1,16 @@
+C:\Users\admin\Source\Repos\TddCalcApp\TddCalcApp.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\admin\Source\Repos\TddCalcApp\TddCalcApp.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\admin\Source\Repos\TddCalcApp\TddCalcApp.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\admin\Source\Repos\TddCalcApp\TddCalcApp.Test\bin\Debug\TddCalcApp.Test.dll
+C:\Users\admin\Source\Repos\TddCalcApp\TddCalcApp.Test\bin\Debug\TddCalcApp.Test.pdb
+C:\Users\admin\Source\Repos\TddCalcApp\TddCalcApp.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\admin\Source\Repos\TddCalcApp\TddCalcApp.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\admin\Source\Repos\TddCalcApp\TddCalcApp.Test\bin\Debug\TddCalcApp.library.dll
+C:\Users\admin\Source\Repos\TddCalcApp\TddCalcApp.Test\bin\Debug\TddCalcApp.library.pdb
+C:\Users\admin\Source\Repos\TddCalcApp\TddCalcApp.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\admin\Source\Repos\TddCalcApp\TddCalcApp.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\admin\Source\Repos\TddCalcApp\TddCalcApp.Test\obj\Debug\TddCalcApp.Test.csprojAssemblyReference.cache
+C:\Users\admin\Source\Repos\TddCalcApp\TddCalcApp.Test\obj\Debug\TddCalcApp.Test.csproj.CoreCompileInputs.cache
+C:\Users\admin\Source\Repos\TddCalcApp\TddCalcApp.Test\obj\Debug\TddCalcApp.Test.csproj.CopyComplete
+C:\Users\admin\Source\Repos\TddCalcApp\TddCalcApp.Test\obj\Debug\TddCalcApp.Test.dll
+C:\Users\admin\Source\Repos\TddCalcApp\TddCalcApp.Test\obj\Debug\TddCalcApp.Test.pdb
